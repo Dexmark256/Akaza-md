@@ -1,7 +1,7 @@
 {
   "name": "ᴍᴀᴊɪɴ-ʙᴜᴜ",
   "version": "1.0.0",
-  "description": "A WhatsApp Bot Created By Dante Dev",
+  "description": "By Dante Dev",
   "main": "index.js",
   "scripts": {
     "start": "pm2 start index.js --deep-monitoring --attach --name MAJIN-BUU",
