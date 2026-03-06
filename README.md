@@ -1,9 +1,9 @@
-<h1 align="center">🫠 MAJIN BUU BOT </h1>
+<h1 align="center">AKAZA❄️ BOT </h1>
 
 <p align="center">
   <!-- MAJIN BUU IMAGE -->
-  <img src="https://i.imgur.com/Ski2XI2.jpeg"
-       alt="Majin Buu Bot Banner"
+  <img src="https://files.catbox.moe/9ngo7x.jpg"
+       alt="AKAZA❄️ BOT Banner"
        width="350" />
 </p>
 
