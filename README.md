@@ -2,7 +2,7 @@
 
 <p align="center">
   <!-- AKAZA❄️ BOT IMAGE -->
-  <img src="https://i.imgur.com/PzAa3BP.jpeg"
+  <img src="https://i.imgur.com/a/3oOv0Gu. jpeg"
        alt="AKAZA❄️ BOT Banner"
        width="340" />
 </p>
