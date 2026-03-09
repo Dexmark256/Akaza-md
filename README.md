@@ -2,7 +2,7 @@
 
 <p align="center">
   <!-- AKAZA❄️ BOT IMAGE -->
-  <img src="https://i.imgur.com/a/3oOv0Gu. jpeg"
+  <img src="https://github.com/Dexmark256/Love-bird-dante/blob/main/Screenshot_20260306-221447.jpg"
        alt="AKAZA❄️ BOT Banner"
        width="340" />
 </p>
