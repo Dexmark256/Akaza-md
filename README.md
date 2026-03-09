@@ -1,8 +1,8 @@
 <h1 align="center">AKAZA❄️ BOT </h1>
 
 <p align="center">
-  <!-- MAJIN BUU IMAGE -->
-  <img src="https://files.catbox.moe/9ngo7x.jpg"
+  <!-- AKAZA IMAGE -->
+  <img src="https://imgur.com/a/PzAa3BP"
        alt="AKAZA❄️ BOT Banner"
        width="350" />
 </p>
