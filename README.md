@@ -3,8 +3,8 @@
 <br>
 
 <a href="https://git.io/typing-svg"> 
-<img src="https://readme-typing-svg.demolab.com?font=Rockwell&size=50&pause=1000&color=33ff00&center=true&width=910&height=100&lines=Akaza+WA+BOT;Multi+Device+Whatsapp+Bot;Made+by+dante+dev" alt="Typing SVG" />
-</a>   
+<img src="https://readme-typing-svg.demolab.com?font=Rockwell&size=50&pause=1000&color=33ff00&center=true&width=910&height=100&lines=Akaza+WA+BOT;Multi+Device+Whatsapp+Bot;Made+by+supreme" alt="Typing SVG" />
+</a> 
 
 </div>
 
@@ -13,7 +13,7 @@
 <p align="center">
 <img src="https://github.com/Dexmark256/Love-bird-dante/blob/main/Screenshot_20260306-221447.jpg"
 alt="AKAZA❄️ BOT Banner"
-width="350"/>
+width="340"/>
 </p>
 
 <p align="center">
@@ -26,28 +26,20 @@ width="350"/>
 </a>
 </p>
 
----
 
-## ✨ Features
+<!-- AKAZA❄️ BOT SECTION -->
 
-- ⚡ Fast & lightweight WhatsApp bot  
-- 🧩 Modular command handler  
-- 👥 Group & private chat support  
-- 🔐 Secure session handling  
-- 🚀 Easy deployment  
-- 🎮 Fun, utility & admin commands  
+<div align="center"> 
+<strong>AKAZA❄️ BOT</strong>
+<br>
 
----
+<a href="https://git.io/typing-svg"> 
+<img src="https://readme-typing-svg.demolab.com?font=Rockwell&size=50&pause=1000&color=33ff00&center=true&width=910&height=100&lines=June-Official;Multi+Device+Whatsapp+Bot;Made+by+dante+dev" alt="Typing SVG"/>
+</a> 
 
-## 🛠️ Tech Stack
+</div>
 
-- Node.js  
-- Baileys (Multi-Device)  
-- Express  
-- JavaScript  
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=the+bot+supports+deployment;on+all+free+panels+easily)](https://git.io/typing-svg)
 
----
+</p>
 
-## 📜 License
-
-MIT © **Dexmark Tech**
