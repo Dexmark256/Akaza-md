@@ -1,0 +1,23 @@
+{
+  "name": "akaza-md-bot",
+  "version": "1.0.0",
+  "description": "AKAZA Multi Device WhatsApp Bot",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "whatsapp",
+    "bot",
+    "baileys",
+    "akaza"
+  ],
+  "author": "Dexmark",
+  "license": "MIT",
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.0",
+    "pino": "^8.17.0",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
