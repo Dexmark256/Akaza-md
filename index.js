@@ -22,7 +22,7 @@ printQRInTerminal: true
 
 sock.ev.on("creds.update", saveCreds)
 
-sock.ev.on("connection.update", (update) => {
+sock.ev.on("connection.update", async (update) => {
 
 const { connection, lastDisconnect } = update
 
@@ -43,6 +43,20 @@ console.log("✅ AKAZA BOT CONNECTED")
 
 })
 
+/* Pairing Code System */
+
+if (!sock.authState.creds.registered) {
+
+const phoneNumber = config.ownerNumber
+
+const code = await sock.requestPairingCode(phoneNumber)
+
+console.log("📱 Pairing Code:", code)
+
+}
+
+/* Message listener */
+
 sock.ev.on("messages.upsert", async ({ messages }) => {
 
 const m = messages[0]
@@ -62,7 +76,7 @@ if (command === "ping") {
 
 await sock.sendMessage(
 m.key.remoteJid,
-{ text: "🏓 Pong! Bot is working." }
+{ text: "🏓 Pong! AKAZA BOT is running." }
 )
 
 }
