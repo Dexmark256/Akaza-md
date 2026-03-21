@@ -1,0 +1,37 @@
+# ─────────────────────────────────────────
+#         AKAZA BOT — .GITIGNORE
+# ─────────────────────────────────────────
+
+# Dependencies
+node_modules/
+
+# Session files (contains sensitive auth credentials)
+sessions/
+!sessions/.gitkeep
+
+# Environment variables
+.env
+_env
+
+# Database (contains user data)
+data/db.json
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor folders
+.vscode/
+.idea/
+
+# Temp files
+tmp/
+temp/
+*.tmp
