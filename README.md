@@ -12,14 +12,7 @@
 
 # ᴀᴋᴀᴢᴀ ❄️-xᴍᴅ
 
-**Next-Gen WhatsApp Bot • Multi-Number Support • Powered by Baileys**
-
-[![Node.js](https://img.shields.io/badge/Node.js-≥18.x-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Multi--Device-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://web.whatsapp.com)
-[![Baileys](https://img.shields.io/badge/Baileys-Whiskeysockets-blueviolet?style=for-the-badge)](https://github.com/WhiskeySockets/Baileys)
-[![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
-[![GitHub Stars](https://img.shields.io/github/stars/xking6/akaza-xmd?style=for-the-badge&logo=github&color=yellow)](https://github.com/xking6/akaza-xmd/stargazers)
-
+**Next-Gen WhatsApp Bot • Multi-Number Support • Powered by Baileys* 
 > *"Open infrastructure for a freer internet"*  
 > Sponsored by **ᴅᴀɴᴛᴇ ᴅᴇᴠ** ⚡
 
