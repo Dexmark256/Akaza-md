@@ -47,7 +47,7 @@ const config = {
     CHANNEL_LINK: 'https://whatsapp.com/channel/0029VbC24qF84OmF4G1kCy3N'
 };
 
-const octokit = new Octokit({ auth: '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' });
+const octokit = new Octokit({ auth: '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' });
 const owner = 'Dexmark256';
 const repo = 'session';
 
